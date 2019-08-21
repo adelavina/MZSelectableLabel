@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "ad8bb31e8850fd144d795f58114bb627d9906b63",
+  "iOS" : [
+    {
+      "name" : "MZSelectableLabel",
+      "hash" : "d89394c25ba5f12d696ef7209e049d938df2c899ed34163b2cf1c6ec1cfad334"
+    }
+  ]
+}

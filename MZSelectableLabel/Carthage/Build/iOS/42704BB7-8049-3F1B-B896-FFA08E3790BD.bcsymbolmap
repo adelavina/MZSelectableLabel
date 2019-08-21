@@ -1,0 +1,95 @@
+BCSymbolMap Version: 2.0
+-[UIColor(Equalable) isEqualToColor:]
+___37-[UIColor(Equalable) isEqualToColor:]_block_invoke
+___block_descriptor_40_e26_@"UIColor"16@?0@"UIColor"8l
+Apple LLVM version 10.0.1 (clang-1001.0.46.4)
+/Users/n128575/Documents/MZSelectableLabel/MZSelectableLabel/MZSelectableLabel/UIColor+Equalable.m
+/Users/n128575/Documents/MZSelectableLabel/MZSelectableLabel
+__37-[UIColor(Equalable) isEqualToColor:]_block_invoke
+-[MZSelectableLabel initWithFrame:]
+-[MZSelectableLabel initWithCoder:]
+-[MZSelectableLabel setupTextSystem]
+-[MZSelectableLabel setSkipColorForAutomaticDetection:]
+-[MZSelectableLabel setAutomaticDetectionBackgroundHighlightColor:]
+-[MZSelectableLabel setAutomaticForegroundColorDetectionEnabled:]
+___65-[MZSelectableLabel setAutomaticForegroundColorDetectionEnabled:]_block_invoke
+___copy_helper_block_e8_32s40s48w
+___destroy_helper_block_e8_32s40s48w
+-[MZSelectableLabel setText:]
+-[MZSelectableLabel setAttributedText:]
+-[MZSelectableLabel setSelectableRange:hightlightedBackgroundColor:]
+-[MZSelectableLabel setSelectableRange:]
+-[MZSelectableLabel setSelectedRange:]
+-[MZSelectableLabel updateTextStoreWithText]
+-[MZSelectableLabel updateTextStoreWithAttributedString:]
+-[MZSelectableLabel rangeValueAtRange:]
+-[MZSelectableLabel rangeValueAtLocation:]
+-[MZSelectableLabel calcTextOffsetForGlyphRange:]
+-[MZSelectableLabel attributesFromProperties]
+-[MZSelectableLabel textRectForBounds:limitedToNumberOfLines:]
+-[MZSelectableLabel drawTextInRect:]
+-[MZSelectableLabel setFrame:]
+-[MZSelectableLabel setBounds:]
+-[MZSelectableLabel layoutSubviews]
+-[MZSelectableLabel pointInside:withEvent:]
+-[MZSelectableLabel touchesBegan:withEvent:]
+-[MZSelectableLabel touchesMoved:withEvent:]
+-[MZSelectableLabel touchesEnded:withEvent:]
+-[MZSelectableLabel touchesCancelled:withEvent:]
+-[MZSelectableLabel layoutManager:shouldBreakLineByWordBeforeCharacterAtIndex:]
++[MZSelectableLabel sanitizeAttributedString:]
+-[MZSelectableLabel selectableRanges]
+-[MZSelectableLabel setSelectableRanges:]
+-[MZSelectableLabel detectedSelectableRanges]
+-[MZSelectableLabel setDetectedSelectableRanges:]
+-[MZSelectableLabel selectionHandler]
+-[MZSelectableLabel setSelectionHandler:]
+-[MZSelectableLabel isAutomaticForegroundColorDetectionEnabled]
+-[MZSelectableLabel automaticDetectionBackgroundHighlightColor]
+-[MZSelectableLabel skipColorForAutomaticDetection]
+-[MZSelectableLabel layoutManager]
+-[MZSelectableLabel setLayoutManager:]
+-[MZSelectableLabel textContainer]
+-[MZSelectableLabel setTextContainer:]
+-[MZSelectableLabel textStorage]
+-[MZSelectableLabel setTextStorage:]
+-[MZSelectableLabel isTouchMoved]
+-[MZSelectableLabel setIsTouchMoved:]
+-[MZSelectableLabel selectedRange]
+-[MZSelectableLabel .cxx_destruct]
++[MZSelectableLabelRange selectableRangeWithRange:color:]
+-[MZSelectableLabelRange range]
+-[MZSelectableLabelRange setRange:]
+-[MZSelectableLabelRange color]
+-[MZSelectableLabelRange setColor:]
+-[MZSelectableLabelRange .cxx_destruct]
+_OBJC_IVAR_$_MZSelectableLabel._selectableRanges
+_OBJC_IVAR_$_MZSelectableLabel._skipColorForAutomaticDetection
+_OBJC_IVAR_$_MZSelectableLabel._automaticForegroundColorDetectionEnabled
+_OBJC_IVAR_$_MZSelectableLabel._automaticDetectionBackgroundHighlightColor
+___block_descriptor_56_e8_32s40s48w_e27_v40@?0@8{_NSRange=QQ}16^B32l
+_OBJC_IVAR_$_MZSelectableLabel._selectedRange
+_OBJC_IVAR_$_MZSelectableLabel._detectedSelectableRanges
+_OBJC_IVAR_$_MZSelectableLabel._selectionHandler
+_OBJC_IVAR_$_MZSelectableLabel._layoutManager
+_OBJC_IVAR_$_MZSelectableLabel._textContainer
+_OBJC_IVAR_$_MZSelectableLabel._textStorage
+_OBJC_IVAR_$_MZSelectableLabel._isTouchMoved
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_PROTOCOL_$_NSLayoutManagerDelegate
+l_OBJC_LABEL_PROTOCOL_$_NSLayoutManagerDelegate
+_OBJC_IVAR_$_MZSelectableLabelRange._range
+_OBJC_IVAR_$_MZSelectableLabelRange._color
+/Users/n128575/Documents/MZSelectableLabel/MZSelectableLabel/MZSelectableLabel/MZSelectableLabel.m
+/Users/n128575/Documents/MZSelectableLabel/MZSelectableLabel/MZSelectableLabel/MZSelectableLabel.h
+NSMakeRange
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
+NSMaxRange
+__CGPointEqualToPoint
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+NSEqualRanges
+__destroy_helper_block_e8_32s40s48w
+__copy_helper_block_e8_32s40s48w
+__65-[MZSelectableLabel setAutomaticForegroundColorDetectionEnabled:]_block_invoke
+/Users/n128575/Library/Developer/Xcode/DerivedData/MZSelectableLabel-brpqvsgtjhcnynbzygfyhnkdwile/Build/Intermediates.noindex/ArchiveIntermediates/MZSelectableLabel/IntermediateBuildFilesPath/MZSelectableLabel.build/Release-iphoneos/MZSelectableLabel.build/DerivedSources/MZSelectableLabel_vers.c
